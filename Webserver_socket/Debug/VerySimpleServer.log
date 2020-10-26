@@ -1,0 +1,17 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Server.cpp
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(50,27): warning C4129: “C”: 不可识别的字符转义序列
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(51,18): warning C4129: “C”: 不可识别的字符转义序列
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(77,29): warning C4018: “<”: 有符号/无符号不匹配
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(89,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(90,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(99,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(103,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(104,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(108,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(112,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(113,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(121,12): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(146,9): warning C4101: “rfds”: 未引用的局部变量
+F:\PROJECTS\network\VerySimpleServer\Server.cpp(147,9): warning C4101: “wfds”: 未引用的局部变量
+  VerySimpleServer.vcxproj -> F:\PROJECTS\network\VerySimpleServer\Debug\VerySimpleServer.exe

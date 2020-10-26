@@ -1,0 +1,4 @@
+E:\大三\计算机网络\实验\实验1\examples\VerySimpleServer\Debug\VerySimpleServer.exe
+E:\大三\计算机网络\实验\实验1\examples\VerySimpleServer\Debug\VerySimpleServer.pdb
+F:\PROJECTS\network\VerySimpleServer\Debug\VerySimpleServer.exe
+F:\PROJECTS\network\VerySimpleServer\Debug\VerySimpleServer.pdb
