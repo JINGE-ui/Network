@@ -1,0 +1,2 @@
+F:\PROJECTS\network\Windows VS2017\StopWait\Debug\StopWait.exe
+F:\PROJECTS\network\Windows VS2017\StopWait\Debug\StopWait.pdb

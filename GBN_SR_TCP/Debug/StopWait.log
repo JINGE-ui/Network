@@ -1,0 +1,4 @@
+﻿F:\Visual Studio2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project '..\netsimlib\netsimlib.vcxproj' does not exist.
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  main.cpp
+  StopWait.vcxproj -> F:\PROJECTS\network\Windows VS2017\StopWait\Debug\StopWait.exe
